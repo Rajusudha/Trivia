@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* overflow: hidden; */
+    
+}
+.beagle{
+    width: 1200px;
+    height: 370px;;
+    margin-top: 47px;
+    margin-left: 38px;
+    border: 2px solid #000000;
+    margin-bottom: 47px;
+    margin-right: 38px;
+
+}
+.blog{
+    margin-top: 30px;
+    margin-left: 30px;
+    text-underline-offset: 10px;
+}
+.text{
+    font-size: 24px;
+    margin-left: 38px;
+    margin-right: 38px;
+    line-height: 28px;
+}
+.ancor-tag{
+    font-size: 24px;
+    margin-left: 38px;
+    color: black;
+    text-underline-offset: 4px;
+}
+.image{
+    margin-top: 30px;
+    margin-left: 30px;
+    text-underline-offset: 10px;  
+}
+.img{
+    width: 450px;
+    height: 290px;
+    margin-left: 38px;
+    margin-top: 47px;
+    background: #000;
+   
+
+}
+ .img>img{
+    width: 100%;
+   
+}
+ .ancor-tag-1{
+    font-size: 24px;
+    margin-left: 38px;
+    color: black;
+    text-underline-offset: 4px;
+    margin-top: 40px;
+} 
+.tri{
+    margin-top: 30px;
+    margin-left: 30px;
+    text-underline-offset: 10px;   
+}
+.Trivia{
+    font-size: 20px;
+    line-height: 28px;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
